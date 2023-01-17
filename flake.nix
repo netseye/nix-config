@@ -21,6 +21,7 @@
         # the path to your home.nix.
         modules = [
           ./modules/packages.nix
+          ./modules/git.nix
           ./home.nix
         ];
 

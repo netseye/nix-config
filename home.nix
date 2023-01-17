@@ -78,7 +78,7 @@
     oh-my-zsh =  {
       enable = true; 
       theme = "dogenpunk";
-      plugins = [ "git" "cp" ]; 
+      plugins = [ "git" "cp" "ssh-agent" ]; 
     };
   };
 }
