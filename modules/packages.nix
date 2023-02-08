@@ -46,6 +46,7 @@
     rustup
     ihp-new
     nodePackages.ts-node
+    nodePackages_latest.pnpm
     tokei
     trunk
   ];

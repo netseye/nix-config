@@ -61,6 +61,7 @@ home-manager switch --flake .#jeakin
 
    ```shell
    home-manager expire-generations '-30 minutes'
+   nix-collect-garbage
    ```
 
 ### nix-env
