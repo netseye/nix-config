@@ -49,5 +49,6 @@
     nodePackages_latest.pnpm
     tokei
     trunk
+    du-dust
   ];
 }
