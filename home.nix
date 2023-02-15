@@ -37,6 +37,7 @@
     PKG_CONFIG_PATH="/usr/local/lib/pkgconfig/";
     CC="clang";
     CXX="clang++";
+    PNPM_HOME="~/.pnpm-store";
   };
 
   home.sessionVariablesExtra = '' '';
