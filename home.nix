@@ -27,6 +27,7 @@
   home.stateVersion = "21.11";
   home.sessionPath = [
       "$HOME/.cargo/bin"  # cargo
+      "$HOME/.pnpm-store"  # pnpm
   ];
   home.sessionVariables = {
     EDITOR = "vim";
@@ -37,7 +38,7 @@
     PKG_CONFIG_PATH="/usr/local/lib/pkgconfig/";
     CC="clang";
     CXX="clang++";
-    PNPM_HOME="~/.pnpm-store";
+    PNPM_HOME="$HOME/.pnpm-store";
   };
 
   home.sessionVariablesExtra = '' '';

@@ -46,7 +46,7 @@
     rustup
     ihp-new
     nodePackages.ts-node
-    nodePackages_latest.pnpm
+    nodePackages.pnpm
     tokei
     trunk
     du-dust
