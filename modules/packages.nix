@@ -22,6 +22,7 @@
     tasksh
     taskwarrior
     terraform
+    watchexec
     tldr
     tmux
     tree
@@ -36,6 +37,7 @@
     cloc
     go
     direnv
+    ngrok
     wget
     nix-tree
     nix-top

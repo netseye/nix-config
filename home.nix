@@ -76,6 +76,8 @@
       sshstage="ssh jeakin@39.105.25.169";
       ip="curl -s https://api.myip.la/cn\\?json | jq";
       dsn="pmset displaysleepnow";
+      python="python3.9";
+      pip="pip3.9";
     };
     oh-my-zsh =  {
       enable = true; 
