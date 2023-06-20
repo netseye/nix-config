@@ -23,6 +23,7 @@
     taskwarrior
     terraform
     watchexec
+    poppler
     tldr
     tmux
     tree
@@ -52,5 +53,6 @@
     tokei
     trunk
     du-dust
+    deno
   ];
 }
