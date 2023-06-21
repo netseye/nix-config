@@ -54,5 +54,6 @@
     trunk
     du-dust
     deno
+    poetry
   ];
 }
